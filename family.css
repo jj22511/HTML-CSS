@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+	font-style: "calibri";
+}
+
+p{
+	font-size: 15px;
+	text-align: center;
+	font-family: "calibri";
+}	
+body{
+	background-image: url(bg3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}

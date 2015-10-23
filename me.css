@@ -1,0 +1,11 @@
+h3{text-align: center;}
+p{text-align: center;
+font-family: "comic sans ms";
+font-size: 13px;}
+body
+{
+	background-repeat: no-repeat;
+	background-image: url(bg1.jpg);
+	background-size: cover;
+	background-position: center;
+}
